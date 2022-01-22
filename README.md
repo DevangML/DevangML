@@ -1,8 +1,6 @@
 <center>
 
-<!-- ![Header](https://github.com/DevangML/DevangML/blob/main/header.png?raw=true) -->
-
-![Header](../DevangML/header.png)
+![Header](https://github.com/DevangML/DevangML/blob/main/header.png?raw=true)
 
 ## Hi I'm Devang! 👋
 
