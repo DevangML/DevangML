@@ -11,7 +11,9 @@ Besides that, I am really passionate about the fields of Artificial Intelligence
 </p>  
   
 <div align="justify">  
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&color=%23FBFF50&duration=4000&lines=Avid+Student+of+Engineering;Web+Developer;AI+Enthusiast;ML+Enthusiast)](https://git.io/typing-svg) 
+  
 </div>  
 
 ## Skills 👨‍🔬
